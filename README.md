@@ -14,6 +14,10 @@ This repository contains a resilient and scalable cache implementation using Eli
 
 Fault-tolerant-gateway is a robust and adaptive solution that functions as both a circuit breaker and a load balancer. It also supports service discovery and integrates with the [resilient-scalable-cache](https://github.com/iondodon/resilient-scalable-cache) as its key-value storage system.
 
+## 4. [message-broker](https://github.com/iondodon/message-broker) - Fault-Tolerant Elixir Message Broker
+
+Fault-Tolerant Elixir Message Broker: Efficient Event Distribution and Real-Time Weather Data Aggregation
+
 ## Contact
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iondodon/)
