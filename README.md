@@ -18,6 +18,10 @@ Fault-tolerant-gateway is a robust and adaptive solution that functions as both 
 
 Fault-Tolerant Elixir Message Broker: Efficient Event Distribution and Real-Time Weather Data Aggregation. The fault-tolerant message broker system manages registration and consumption of events across topics. It enables distribution of events through multiple HTTP routes and allows publishers to send messages to specific topics. Subscribers can register and listen to events on desired topics, while the system efficiently aggregates and processes data from various topics.
 
+## 4. [MyOS](https://github.com/iondodon/MyOS)
+
+Low level Operating System kernel written is Assembly (NASM).
+
 ## Contact
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iondodon/)
