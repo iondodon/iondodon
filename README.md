@@ -2,23 +2,27 @@
 
 Here's an overview of some of the repositories:
 
-## 1. [manter](https://github.com/iondodon/manter) - A Modern Terminal Experience
+## 1. [pb](https://github.com/iondodon/pb/tree/master/problems) - Data structures and algorithms
+
+An extensive set of over 400 solved competitive problems utilized in national and international Informatics Olympiads.
+
+## 2. [manter](https://github.com/iondodon/manter) - A Modern Terminal Experience
 
 Manter is a modern terminal that enhances your command-line experience with features like autocomplete suggestions, syntax highlighting, and more.
 
-## 2. [resilient-scalable-cache](https://github.com/iondodon/resilient-scalable-cache) - Robust, Scalable Cache in Elixir
+## 3. [resilient-scalable-cache](https://github.com/iondodon/resilient-scalable-cache) - Robust, Scalable Cache in Elixir
 
 This repository contains a resilient and scalable cache implementation using Elixir. It is designed based on a master-slave pattern and supports distributed hashing as well as slave replication.
 
-## 3. [fault-tolerant-gateway](https://github.com/iondodon/fault-tolerant-gateway) - An Intelligent Gateway Solution
+## 4. [fault-tolerant-gateway](https://github.com/iondodon/fault-tolerant-gateway) - An Intelligent Gateway Solution
 
 Fault-tolerant-gateway is a robust and adaptive solution that functions as both a circuit breaker and a load balancer. It also supports service discovery and integrates with the [resilient-scalable-cache](https://github.com/iondodon/resilient-scalable-cache) as its key-value storage system.
 
-## 4. [message-broker](https://github.com/iondodon/message-broker) - Fault-Tolerant Elixir Message Broker
+## 5. [message-broker](https://github.com/iondodon/message-broker) - Fault-Tolerant Elixir Message Broker
 
 Fault-Tolerant Elixir Message Broker: Efficient Event Distribution and Real-Time Weather Data Aggregation. The fault-tolerant message broker system manages registration and consumption of events across topics. It enables distribution of events through multiple HTTP routes and allows publishers to send messages to specific topics. Subscribers can register and listen to events on desired topics, while the system efficiently aggregates and processes data from various topics.
 
-## 5. [MyOS](https://github.com/iondodon/MyOS) - A Basic Custom Operating System written in Assembly
+## 6. [MyOS](https://github.com/iondodon/MyOS) - A Basic Custom Operating System written in Assembly
 
 Low level Operating System kernel written is Assembly (NASM). It provides a command prompt where users can enter a variety of supported commands. Examples of some commands are: `writeflp` - Writes text data to the floppy disk (the same disk from which the OS is loaded), `readflp` -  reads text data from the floppy disk, `draw` - displays an animated UTM text.
 
