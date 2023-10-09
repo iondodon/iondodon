@@ -26,14 +26,6 @@ Fault-Tolerant Elixir Message Broker: Efficient Event Distribution and Real-Time
 
 Low level Operating System kernel written is Assembly (NASM). It provides a command prompt where users can enter a variety of supported commands. Examples of some commands are: `writeflp` - Writes text data to the floppy disk (the same disk from which the OS is loaded), `readflp` -  reads text data from the floppy disk, `draw` - displays an animated UTM text.
 
-## 7. [go-files-organiser](https://github.com/iondodon/go-files-organiser) - Go Files Organiser Plugin for JetBrains IDEs
-
-This plugin is designed to improve the organization of Go files within the Project View of JetBrains IDEs. When there's a Go file named `x.go` and another file named `xy.go` in the same directory, `x.go` becomes an expandable node that contains `xy.go` as a child. This way, related Go files are grouped together under a common parent, making the project structure cleaner and easier to navigate.
-
-## 8. [go-project-explorer](https://github.com/iondodon/go-project-explorer) - A Custom File Explorer for Go Projects
-
-Enhance your Go development experience with Go Files Organizer, a specialized file explorer tailored for Go projects. Our main feature focuses on grouping `.go` files with the same prefix, making it easier for you to manage and navigate through your codebase.
-
 ## Contact
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iondodon/)
