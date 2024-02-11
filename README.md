@@ -2,7 +2,7 @@
 
 Here's an overview of some of the repositories:
 
-## 1. [pb](https://github.com/iondodon/pb/tree/master/problems) - Data structures and algorithms
+## 1. [pb (C++, Pascal)](https://github.com/iondodon/pb/tree/master/problems) - Data structures and algorithms
 
 An extensive set of over 400 solved competitive problems utilized in national and international Informatics Olympiads.
 
@@ -18,19 +18,19 @@ Beehive is a distributed key-value store currently under development, leveraging
 
 This is [VBS](https://github.com/iondodon/vbs) (originally implemented in Java) project reimplemented in Go. The project is a sample system for a vehicle hire company. The system keeps a record of the vehicles the company owns and which ones are currently hired out to customers.
 
-## 5. [resilient-scalable-cache](https://github.com/iondodon/resilient-scalable-cache) - Robust, Scalable Cache in Elixir
+## 5. [resilient-scalable-cache (Elixir)](https://github.com/iondodon/resilient-scalable-cache) - Robust, Scalable Cache in Elixir
 
 This repository contains a resilient and scalable cache implementation using Elixir. It is designed based on a master-slave pattern and supports distributed hashing as well as slave replication.
 
-## 6. [fault-tolerant-gateway](https://github.com/iondodon/fault-tolerant-gateway) - An Intelligent Gateway Solution
+## 6. [fault-tolerant-gateway (Elixir)](https://github.com/iondodon/fault-tolerant-gateway) - An Intelligent Gateway Solution
 
 Fault-tolerant-gateway is a robust and adaptive solution that functions as both a circuit breaker and a load balancer. It also supports service discovery and integrates with the [resilient-scalable-cache](https://github.com/iondodon/resilient-scalable-cache) as its key-value storage system.
 
-## 7. [message-broker](https://github.com/iondodon/message-broker) - Fault-Tolerant Elixir Message Broker
+## 7. [message-broker (Elixir)](https://github.com/iondodon/message-broker) - Fault-Tolerant Elixir Message Broker
 
 Fault-Tolerant Elixir Message Broker: Efficient Event Distribution and Real-Time Weather Data Aggregation. The fault-tolerant message broker system manages registration and consumption of events across topics. It enables distribution of events through multiple HTTP routes and allows publishers to send messages to specific topics. Subscribers can register and listen to events on desired topics, while the system efficiently aggregates and processes data from various topics.
 
-## 8. [MyOS](https://github.com/iondodon/MyOS) - A Basic Custom Operating System written in Assembly
+## 8. [MyOS (Assembler)](https://github.com/iondodon/MyOS) - A Basic Custom Operating System written in Assembly
 
 Low-level Operating System kernel written is Assembly (NASM). It provides a command prompt where users can enter a variety of supported commands. Examples of some commands are: `writeflp` - Writes text data to the floppy disk (the same disk from which the OS is loaded), `readflp` -  reads text data from the floppy disk, `draw` - displays an animated UTM text.
 
