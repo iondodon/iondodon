@@ -4,11 +4,11 @@ Here's an overview of some of the repositories:
 
 ## 1. [pb (C++, Pascal)](https://github.com/iondodon/pb/tree/master/problems) - Data structures and algorithms
 
+An extensive set of over 400 solved competitive problems utilized in national and international Informatics Olympiads.
+
 ## 2. [multiplexer (Golang)](https://github.com/iondodon/multiplexer) - Multiplexer
 
 This multiplexer server receives messages via SSH from a remote sender and forwards them to client subscribers. The multiplexer takes each message from the remote sender and places them in a queue. Each subscribed client has a dedicated goroutine (called a client goroutine) that iterates through the queue and sends each message to the client.
-
-An extensive set of over 400 solved competitive problems utilized in national and international Informatics Olympiads.
 
 ## 3. [manter (Rust)](https://github.com/iondodon/manter) - A Modern Terminal Experience
 
