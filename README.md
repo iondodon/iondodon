@@ -44,7 +44,11 @@ Fault-tolerant-gateway is a robust and adaptive solution that functions as both 
 
 Fault-Tolerant Elixir Message Broker: Efficient Event Distribution and Real-Time Weather Data Aggregation. The fault-tolerant message broker system manages registration and consumption of events across topics. It enables distribution of events through multiple HTTP routes and allows publishers to send messages to specific topics. Subscribers can register and listen to events on desired topics, while the system efficiently aggregates and processes data from various topics.
 
-## 10. [MyOS (Assembler)](https://github.com/iondodon/MyOS) - A Basic Custom Operating System written in Assembly
+## 10. [Timeline Explorer](https://github.com/iondodon/timeline) - Timeline Explorer
+
+An interactive visualization tool that brings history to life through an interconnected timeline and map interface. This project allows users to explore historical events across time and space, providing rich context and detailed information for each event.
+
+## 11. [MyOS (Assembler)](https://github.com/iondodon/MyOS) - A Basic Custom Operating System written in Assembly
 
 Low-level Operating System kernel written is Assembly (NASM). It provides a command prompt where users can enter a variety of supported commands. Examples of some commands are: `writeflp` - Writes text data to the floppy disk (the same disk from which the OS is loaded), `readflp` - reads text data from the floppy disk, `draw` - displays an animated UTM text.
 
