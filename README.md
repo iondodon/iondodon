@@ -1,6 +1,6 @@
 Here's an overview of some of the repositories:
 
-## 1. [pb (C++, Pascal)](https://github.com/iondodon/pb/tree/master/problems) - Data structures and algorithms
+## 1. [pb (C++, Pascal)](https://github.com/iondodon/pb) - Data structures and algorithms
 
 An extensive set of over 400 solved competitive problems utilized in national and international Informatics Olympiads.
 
